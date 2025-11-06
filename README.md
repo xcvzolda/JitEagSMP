@@ -6,4 +6,5 @@ Anything. You can build stuff in creative and such. BUT there is only one way to
 Just enter https://fluffy-xylophone-g4xv49gqq76g294gj-8081.app.github.dev/ to your address bar on your browser and selecet the ver of eaglercraft to play. We reccommend WASM-GC version since it is faster. Then select Multiplayer and select "Potato Server".
 # Credit
 dragon731012 for the server software (hence the "Potato Server" name since dragon731012 put it in)
+
 Github for hosting
